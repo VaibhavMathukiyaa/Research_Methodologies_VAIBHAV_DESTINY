@@ -1,0 +1,27 @@
+Diabetes Risk Assessment Report
+==============================
+
+Risk Probability: 0.80
+Risk Category: High
+
+Risk Factors:
+- Glucose_BMI_Interaction: Value = 49.73, Importance = 0.1402
+- Glucose: Value = 148.00, Importance = 0.1138
+- Insulin: Value = 177.47, Importance = 0.1026
+- Age_BMI_Interaction: Value = 16.80, Importance = 0.0939
+- BMI: Value = 33.60, Importance = 0.0680
+
+Patient Data:
+- Age: 50
+- BMI: 33.6
+- Glucose: 148.0 mg/dL
+- Blood Pressure: 72.0 mm Hg
+- Pregnancies: 6
+- Diabetes Pedigree Function: 0.627
+
+Recommendations:
+- Schedule appointment with healthcare provider promptly
+- Consider comprehensive diabetes screening
+- Implement intensive lifestyle modifications
+- Follow up with healthcare provider every 3-6 months
+- Consider preventive interventions as recommended by healthcare provider
